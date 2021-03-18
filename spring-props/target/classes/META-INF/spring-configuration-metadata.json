@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "book",
+      "type": "com.example.springprops.Book",
+      "sourceType": "com.example.springprops.Book"
+    }
+  ],
+  "properties": [
+    {
+      "name": "book.author",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springprops.Book"
+    },
+    {
+      "name": "book.description",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springprops.Book"
+    },
+    {
+      "name": "book.fans",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.example.springprops.Book"
+    },
+    {
+      "name": "book.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springprops.Book"
+    },
+    {
+      "name": "book.price",
+      "type": "java.lang.String",
+      "sourceType": "com.example.springprops.Book"
+    },
+    {
+      "name": "book.rank",
+      "type": "java.util.Map<java.lang.String,java.lang.Integer>",
+      "sourceType": "com.example.springprops.Book"
+    }
+  ],
+  "hints": []
+}
